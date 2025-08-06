@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Unit_Cost,Unit_Price
+P0001,Product_1,Home & Kitchen,276.04,306.6
+P0002,Product_2,Home & Kitchen,35.27,100.28
+P0003,Product_3,Electronics,53.3,235.93
+P0004,Product_4,Electronics,288.66,231.75
+P0005,Product_5,Home & Kitchen,404.79,639.15
+P0006,Product_6,Electronics,8.55,351.72
+P0007,Product_7,Electronics,49.96,330.84
+P0008,Product_8,Home & Kitchen,147.49,260.15
+P0009,Product_9,Home & Kitchen,385.42,733.37
+P0010,Product_10,Clothing,387.87,338.09
+P0011,Product_11,Home & Kitchen,48.09,722.86
+P0012,Product_12,Clothing,269.86,556.54
+P0013,Product_13,Home & Kitchen,381.5,32.19
+P0014,Product_14,Books,349.65,453.93
+P0015,Product_15,Home & Kitchen,240.46,521.68
+P0016,Product_16,Electronics,315.56,728.73
+P0017,Product_17,Books,31.48,255.91
+P0018,Product_18,Books,430.62,236.88
+P0019,Product_19,Electronics,387.96,760.44
+P0020,Product_20,Home & Kitchen,126.04,750.05

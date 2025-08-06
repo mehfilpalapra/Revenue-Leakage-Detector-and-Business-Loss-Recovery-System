@@ -1,0 +1,11 @@
+Order_ID,Product_ID,Order_Date,Quantity_Ordered,Order_Region,Product_Name,Category,Unit_Cost,Unit_Price,Invoice_ID,Invoice_Amount,Invoice_Date,Payment_Status,Return_Date,Return_Reason,Expected_Revenue,Total_Cost,Expected_Profit,Revenue_Leak,Payment_Issue,Is_Returned
+O00002,P0019,2023-01-02,9,South,Product_19,Electronics,387.96,760.44,,,,,,,6843.960000000001,3491.64,3352.320000000001,,False,False
+O00006,P0012,2023-01-06,2,South,Product_12,Clothing,269.86,556.54,,,,,,,1113.08,539.72,573.3599999999999,,False,False
+O00010,P0011,2023-01-10,2,West,Product_11,Home & Kitchen,48.09,722.86,,,,,,,1445.72,96.18,1349.54,,False,False
+O00013,P0014,2023-01-13,8,South,Product_14,Books,349.65,453.93,,,,,,,3631.44,2797.2,834.2400000000002,,False,False
+O00017,P0016,2023-01-17,9,West,Product_16,Electronics,315.56,728.73,,,,,2023-03-05,Late Delivery,6558.57,2840.04,3718.5299999999997,,False,True
+O00038,P0017,2023-02-07,8,East,Product_17,Books,31.48,255.91,,,,,,,2047.28,251.84,1795.44,,False,False
+O00065,P0012,2023-03-06,3,East,Product_12,Clothing,269.86,556.54,,,,,,,1669.62,809.58,860.0399999999998,,False,False
+O00073,P0005,2023-03-14,5,South,Product_5,Home & Kitchen,404.79,639.15,,,,,,,3195.75,2023.95,1171.8,,False,False
+O00076,P0005,2023-03-17,4,South,Product_5,Home & Kitchen,404.79,639.15,,,,,,,2556.6,1619.16,937.4399999999998,,False,False
+O00080,P0006,2023-03-21,9,South,Product_6,Electronics,8.55,351.72,,,,,2023-03-20,Late Delivery,3165.4800000000005,76.95,3088.5300000000007,,False,True
