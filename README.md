@@ -1,65 +1,79 @@
 # Revenue Leakage Detector and Business Loss Recovery System
 
-## Overview
-This end-to-end project tackles a real-world business challenge: identifying and reducing revenue leakage in organizations using AI-powered analytics.
+This project is designed to solve a common but overlooked business problem: **revenue leakage**. Using Power BI, Excel, Python, and SQL, this system identifies, analyzes, and helps recover lost revenue by exposing business gaps, inefficiencies, and hidden risks.
 
-Revenue leakage is the loss of revenue due to process gaps, billing errors, fraud, or inefficiencies. Many companies face these issues unknowingly. This system helps detect such losses early and recommends areas for recovery.
+---
 
-## Tools Used
-- **Python**: Data cleaning, EDA, machine learning
-- **Power BI**: Interactive dashboard with KPIs, slicers, and DAX insights
-- **Excel**: Pre-analysis, modeling, and financial structure prep
-- **SQL (optional)**: For scalable integration in business systems
+## Problem
 
-## Problem Statement
-Many businesses suffer from silent revenue loss caused by:
-- Pricing inconsistencies
-- Delayed or missed billing
-- Product-level margin drops
-- Unmonitored credit limits
-- Operational inefficiencies
+In many growing businesses, revenue loss often happens silently due to poor tracking, delayed actions, inefficient processes, or data blind spots. These leakages can accumulate over time and impact profitability and growth without any clear signal.
 
-This leads to a direct hit on profit margins, financial forecasting, and customer trust.
+There is usually no dedicated system that flags early signs of revenue loss or predicts high-risk areas across business functions like sales, operations, or customer service.
+
+---
 
 ## Solution
-We built a system that:
-1. **Identifies root causes** of revenue leakage
-2. **Predicts future risk zones** using historical data
-3. **Provides a dashboard** to help business leaders monitor key loss drivers
-4. **Recommends actions** to improve billing accuracy, pricing logic, and margin control
+
+This project builds a data-driven, AI-assisted analysis system that detects the root causes of revenue loss and enables preventive and corrective decision-making.
+
+Key highlights:
+
+- **Power BI Dashboard** to monitor revenue trends, loss categories, KPIs, and risky patterns.
+- **Role-Level Security (RLS)** applied using Power BI to ensure secure access based on department roles.
+- **SQL + Python** used for preprocessing, cleaning, EDA, and predictive logic.
+- **Excel** used as a structured input source, simulating real-world enterprise data flows.
+
+The dashboard focuses on simplicity, speed, and insight clarity. All visuals are built using standard Power BI Desktop without external visuals. WordClouds were removed from the main dashboard for visual clarity but are documented in the GitHub repository.
+
+<img width="1588" height="808" alt="Revenue Leakage Detector and Business Loss Recovery System" src="https://github.com/user-attachments/assets/a2bc3d8c-b970-4997-ac9a-32aadab03a37" />
+
+---
 
 ## Key Features
-- AI-based detection of revenue loss patterns
-- Visual insights into loss segments (product, region, category)
-- Forecasting of high-risk areas
-- Business recovery suggestions powered by data
 
-## AI/ML Implementation
-- Classification and regression models to detect loss-prone entities
-- Pattern discovery for operational leakages
-- Predictive scoring to flag risky transactions
+- Real-time Revenue Loss Categories
+- Risk-Based KPIs (high loss segments, channels, departments)
+- Historical Trends vs Forecast Gaps
+- Recovery Opportunity Zones
+- Dynamic Filters and Drill-throughs
+- DAX measures for comparative analysis
+- Role-Level Security (RLS) based on region and department
 
-## Power BI Dashboard
-Includes:
-- KPIs: Total Revenue, Lost Revenue, Net Recovery Potential
-- Visuals: Line charts, bar graphs, category-wise drill-downs
-- Slicers: Region, Product, Quarter, Leakage Source
-- DAX Measures for dynamic insights
+---
 
+## Tools Used
 
-<img width="1588" height="808" alt="Revenue Leakage Detector and Business Loss Recovery System" src="https://github.com/user-attachments/assets/e7333e7b-0ba1-4216-b693-e094bcd51921" />
+- **Power BI Desktop** (for visualization and RLS setup)
+- **Excel** (for structured business data input)
+- **SQL** (for relational data queries and joins)
+- **Python** (for exploratory data analysis and AI forecasting logic)
 
+---
 
+## AI Element (Future Expansion)
 
+In the next phase, this system will include a **machine learning model** that flags high-risk business units or regions based on historical patterns. This will assist decision-makers in prioritizing actions and allocating recovery resources more effectively.
 
-## Outcome
-This system provides business leaders with a proactive approach to reduce hidden losses and improve profitability through better data visibility and AI insights.
+---
 
-## About Me
-I’m Mehfil Palapra, an Artificial Intelligence Analyst focused on using AI for smart business decisions. This project reflects my capability in blending analytics, visualization, and predictive modeling to solve real-world business problems.
+## Project Goal
 
-## Contact
-- GitHub: https://github.com/mehfilpalapra
-- LinkedIn: https://www.linkedin.com/in/mehfil-palapra
-- Email: mehfilpp13@gmail.com
-- Mobile: 8606724044
+The goal is not just to visualize business data, but to help detect revenue loss **before it becomes a business risk**. This project can be adapted across industries like retail, telecom, logistics, or healthcare.
+
+---
+
+## My Role
+
+I handled the complete design, development, and documentation of this system including:
+
+- Data cleaning in Python and Excel
+- EDA and trend forecasting
+- Power BI report design
+- DAX formula creation
+- Role-level security implementation
+- GitHub documentation and versioning
+
+---
+
+## Folder Structure
+
