@@ -75,5 +75,25 @@ I handled the complete design, development, and documentation of this system inc
 
 ---
 
-## Folder Structure
+
+---
+
+## Live Preview and Resources
+
+- **GitHub Repo**: [https://github.com/mehfilpalapra/Revenue-Leakage-Detector](https://github.com/mehfilpalapra/Revenue-Leakage-Detector)
+- **LinkedIn Post**: [View LinkedIn Project Summary](https://www.linkedin.com/in/mehfil-palapra)
+
+---
+
+## Contact
+
+**Mehfil Palapra**  
+Artificial Intelligence (AI) Analyst  
+Email: mehfilpp13@gmail.com  
+LinkedIn: [linkedin.com/in/mehfil-palapra](https://www.linkedin.com/in/mehfil-palapra)  
+GitHub: [github.com/mehfilpalapra](https://github.com/mehfilpalapra)
+
+---
+
+
 
